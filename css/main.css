@@ -1,0 +1,9 @@
+.col {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+}
+
+.container {
+  text-align: center;
+}
